@@ -1,4 +1,4 @@
-[![Header](./header.png)](https://mariomolinaaraoz.com/)
+[![Header](./header1.png)](https://mariomolinaaraoz.com/)
 
 Soy un desarrollador frontend que vive en Argentina, nacido y criado en alli. Mis conocimientos en desarrollo incluyen JavaScript, TypeScript, React, Next.js, Redux y Firebase. Actualmente estoy aprendiendo sobre diseño UX/UI con Figma y también estoy construyendo mi propio backend usando Node.js, Express y MongoDB. Cuando no estoy desarrollando y construyendo cosas, disfruto de la vida, caminatas, salidas.
 
