@@ -1,6 +1,6 @@
 [![Header](./header.png)](https://mariomolinaaraoz.com/)
 
-I'm a Frontend Developer living in Tokyo, Japan, born and raised in Hawaii. My tech stack includes JavaScript, TypeScript, React, Next.js, Redux, and Firebase. I am currently learning about UX/UI Design with Figma and I am also attempting to build out my own backend using Node.js, Express, and MongoDB. When I'm not developing and building things, I enjoy writing blog articles, photography, basketball, and playing with my French Bulldog.
+Soy un desarrollador frontend que vive en Argentina, nacido y criado en alli. Mis conocimientos en desarrollo incluyen JavaScript, TypeScript, React, Next.js, Redux y Firebase. Actualmente estoy aprendiendo sobre diseño UX/UI con Figma y también estoy construyendo mi propio backend usando Node.js, Express y MongoDB. Cuando no estoy desarrollando y construyendo cosas, disfruto de la vida, caminatas, salidas.
 
 ### :pencil: Blog Posts
 -
