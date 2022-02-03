@@ -1,16 +1,23 @@
-### Hi there 👋
+[![Header](./header.png)](https://mariomolinaaraoz.com/)
 
-<!--
-**mariomolinaaraoz/mariomolinaaraoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Developer living in Tokyo, Japan, born and raised in Hawaii. My tech stack includes JavaScript, TypeScript, React, Next.js, Redux, and Firebase. I am currently learning about UX/UI Design with Figma and I am also attempting to build out my own backend using Node.js, Express, and MongoDB. When I'm not developing and building things, I enjoy writing blog articles, photography, basketball, and playing with my French Bulldog.
 
-Here are some ideas to get you started:
+### :pencil: Blog Posts
+-
+-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :computer: Projects
+- [Japan Hoops](https://japan-hoops.web.app/) :basketball:
+- [Tokyo Frenchies](https://tokyo-frenchies.web.app/) :dog:
+- [IpuGram](https://ipugram.web.app/) :camera:
+- [Learn Code, Teach Code](https://learn-code-teach-code.vercel.app/) :school:
+
+### :seedling: Currently Learning
+- Testing - Jest, React Testing Library, and Cypress
+- Node.js, Express, MongoDB
+- UX/UI Design - Figma
+
+### :mailbox: Where To Find Me
+- [Website]
+- [LinkedIn]
+- [Medium]
